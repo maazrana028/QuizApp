@@ -26,8 +26,8 @@ Score Tracking: A variable is used to keep track of the user's score, which is i
 
 Potential Improvements:
 
-More Questions: Expand the quiz with more questions and categories.
-Difficulty Levels: Implement different difficulty levels for the questions.
-Timer: Add a timer to each question to increase the challenge.
-Visual Enhancements: Use graphical elements to improve the user interface.
-Data Persistence: Store user scores and progress for future use.
+1- More Questions: Expand the quiz with more questions and categories.
+2- Difficulty Levels: Implement different difficulty levels for the questions.
+3- Timer: Add a timer to each question to increase the challenge.
+4- Visual Enhancements: Use graphical elements to improve the user interface.
+5- Data Persistence: Store user scores and progress for future use.
